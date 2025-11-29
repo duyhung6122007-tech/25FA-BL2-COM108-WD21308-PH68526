@@ -13,7 +13,7 @@ void uocChungBoiChung()
 }
 void sapXepPhanTuMang1Chieu()
 {
-	int integerArray[100];
+	int integerArray[100] = { 0 };
 	int length;
 	int tmp; //temperay
 	int i;
